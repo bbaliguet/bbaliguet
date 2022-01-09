@@ -1,0 +1,1 @@
+Hey there, I am Benoît Baliguet, a sofware architect at [SpotMe](https://spotme.com) from Switzerland.
