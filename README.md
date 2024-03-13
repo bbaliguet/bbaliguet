@@ -1,1 +1,1 @@
-Hey there, I am Benoît Baliguet, a sofware architect from Switzerland.
+Hey there, I am Benoît Baliguet, a software architect from Switzerland.
